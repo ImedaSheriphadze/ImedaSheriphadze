@@ -16,4 +16,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ImedaSheriphadze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/imeda.sherifadze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/imeda68)  
 
-![GitHub followers](https://img.shields.io/github/followers/ImedaSheriphadze?style=plastic)  ![Github Gist stars](https://img.shields.io/github/gist/stars/ImedaSheriphadze?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/ImedaSheriphadze?style=plastic)  
