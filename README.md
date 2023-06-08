@@ -16,6 +16,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ImedaSheriphadze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/imeda.sherifadze)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/imeda68)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/our_capabilities)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/our_capabilities)  
 
 ![GitHub followers](https://img.shields.io/github/followers/ImedaSheriphadze?style=plastic)   ![Ansible Quality Score](https://img.shields.io/ansible/quality/ImedaSheriphadze?style=plastic)  ![Bountysource](https://img.shields.io/bountysource/team/ImedaSheriphadze/activity?style=flat-square)
